@@ -1,6 +1,6 @@
 {
   "name": "@mozioinc/offline-plugin",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "offline-plugin for webpack",
   "main": "lib/index.js",
   "files": [
